@@ -34,7 +34,7 @@ body{
     text-align: right;
     font-weight: bold;
     border: none;
-    color: #ffffffa7;
+    color: rgba(245, 132, 4, 0.922);
     background-color: transparent;
      box-shadow: 0 0 10px rgba(252, 248, 248);
 }
