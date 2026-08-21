@@ -79,6 +79,3 @@ button:active{
 .operator-btn:active{
     background-color: hsl(35, 100%, 75%);
 }
-footer{
-    margin-top: 400px;
-}
